@@ -3,7 +3,7 @@
 - RAM: 2GB DDR4
 - STORAGE: FLASH 512MB
 - I/O: SD card slot, USB2.0, ethernet, headphone jack, hdmi and POWER in
-- INDICATION: RGB LED on the front side of the device, red LED inside headphone jack
+- INDICATION: RGB LED on the front side of the device, red LED inside headphone jack (for TOSLINK)
 - CONTROLS: Power button and IR reciever
 - NETWORKING: 10/100M wired
 - POWER: 12V1A power in
