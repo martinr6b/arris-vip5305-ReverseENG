@@ -20,3 +20,10 @@ NOTE: i currently only have the VIP5305 whitout wireless connectivity
 ## SOFTWARE OVERVIEW
 - STOCK OS:
 - ...
+## HACKING IT: 
+UART pinout is as follows:
+GND
+RX
+VCC
+TX
+GND
