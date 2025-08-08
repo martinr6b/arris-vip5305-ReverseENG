@@ -15,6 +15,8 @@
 - VIP5305 BT - IPTV, HEVC, UHD Set-Top with BLE remote control support
 - VIP5305 W BT - IPTV, HEVC, UHD Set-Top with 802.11ac Wi-Fi and BLE remote control support
 
+NOTE: i currently only have the VIP5305 whitout wireless connectivity
+
 ## SOFTWARE OVERVIEW
 - STOCK OS:
 - ...
